@@ -1,4 +1,5 @@
 # Naveed - Scrape to pull content from BBC Judo site. 
+# 16:31 02/01/2018
 
 from selenium import webdriver
 from bs4 import BeautifulSoup
